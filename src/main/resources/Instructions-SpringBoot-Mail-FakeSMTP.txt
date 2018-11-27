@@ -1,0 +1,6 @@
+1 ) Please download the FakeSMTP from : http://nilhcem.com/FakeSMTP/download.html
+2 ) Run the Jar : H:\fakeSMTP-latest>java -jar fakeSMTP-2.0.jar
+     Here localhost or 127.0.0.1 and Port Number is 25
+
+3 ) Call the RestAPI : http://localhost:9090/mail 
+4 ) finally Very the Mail in Fake SMTP Window.
